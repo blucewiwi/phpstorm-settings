@@ -1,0 +1,41 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="273b0e14-bdb2-446a-9185-13b332d7bfa0" name="Live One" url="">
+        <fileTransfer host="212.36.99.44" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/www/vhosts" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="9e76570d-217e-43f4-8d7b-ebb671792530" name="Live Two" url="">
+        <fileTransfer host="212.36.99.9" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/www/vhosts" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="01498bc5-9a8f-4ec4-9fea-40a77c913322" name="Internal" url="http://212.36.110.195/">
+        <fileTransfer host="212.36.110.195" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/www/vhosts" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="07e0c925-efd4-44ea-9c25-52902c415c65" name="staging" url="http://212.36.111.82">
+        <fileTransfer host="212.36.111.82" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/www/vhosts" accessType="SFTP" keyPair="true">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAABILVuDWo1kc3x3mA/gkS0u2LYtZtEYAi42sTTm+6Kaf/DrAMsLM5/9hTPQc5D532/6iHjiCuOEgHyB5psdYifCFfc8yeu0rKkxXSfwtKHPMGX1yLtI0YenPTetZzabbaQQ4w1AZKTPcdtndzlJeL1x849Kuc4ff4kxFl6fC7S+D/TM3N29FHCRg5VhWsziZP1E/U9dwcgxr2B/5taPDjFC9zdY5UQV/ZNnXQGHKAr8LzS0mw0GjvLt7ZvwrWPW3eMu0dK8czUrdG/eQ68/ey+w2E4UiIYr+/CFHw9+KJztWbLh/vZeCobs7E0YNi/YuyUGBuUtrY7+/mQ+mYKU6FH7doZr/rSXFcB5KrH81HtNtH57B/FiZQYNBAwUIy4NzPMbsZ+670fdLaUwDNjyGj/oT8=</data>
+  </component>
+</application>
