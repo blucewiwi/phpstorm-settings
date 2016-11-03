@@ -10,6 +10,7 @@
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="live" type="PLAIN_TEXT" />
       <mapping ext="dist" type="PLAIN_TEXT" />
+      <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="crontab" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
