@@ -9,6 +9,7 @@
       <mapping pattern="Capfile" type="PLAIN_TEXT" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern="banner" type="PLAIN_TEXT" />
+      <mapping pattern="DockerFile" type="PLAIN_TEXT" />
       <mapping pattern="crontab" type="PLAIN_TEXT" />
       <mapping ext="live" type="PLAIN_TEXT" />
       <mapping ext="pattern" type="PLAIN_TEXT" />
