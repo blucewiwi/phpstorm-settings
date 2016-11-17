@@ -16,6 +16,7 @@
       <mapping ext="dist" type="PLAIN_TEXT" />
       <mapping ext="crt" type="PLAIN_TEXT" />
       <mapping ext="dev" type="PLAIN_TEXT" />
+      <mapping ext="env" type="PLAIN_TEXT" />
       <mapping ext="crontab" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
