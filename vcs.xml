@@ -66,8 +66,12 @@
           <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/catax/admin-are.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/Newsman/phabricator-jetbrains-generic-task-server.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Motionlab\Catax" />
+    <option name="cloneParentDir" value="D:\Projects\Sandbox" />
   </component>
 </application>
