@@ -17,8 +17,8 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
-      <webServer id="01498bc5-9a8f-4ec4-9fea-40a77c913322" name="Internal" url="http://212.36.110.195/">
-        <fileTransfer host="212.36.110.195" port="22" privateKey="$USER_HOME$/.ssh/id_rsa" rootFolder="/www/vhosts" accessType="SFTP" keyPair="true">
+      <webServer id="01498bc5-9a8f-4ec4-9fea-40a77c913322" name="PaddyShack" url="http://paddyshack.games/">
+        <fileTransfer host="home397418533.1and1-data.host" port="22" rootFolder="/paddy/review" accessType="SFTP">
           <advancedOptions>
             <advancedOptions dataProtectionLevel="Private" />
           </advancedOptions>
@@ -34,5 +34,8 @@
         </fileTransfer>
       </webServer>
     </option>
+  </component>
+  <component name="webServersAuthStorage">
+    <data>AAAAcIBqYJxfM3M3mgDN0Za/hLXcFZwhacjv8rxH+xXwhGaR+Ab4Uz0rF4NsPmk6dYNf5JDFxoDbheH7mK8XHnYVRVAddOddXfuCmRn6ygg6cZH3vjygLbiYJ+EJZeROjx8o8VTHhfybA/FBu5IaYwrNrV4jgJ/O/W9SmTZozLguqBxK</data>
   </component>
 </application>
