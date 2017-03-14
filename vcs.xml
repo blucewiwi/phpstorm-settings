@@ -82,8 +82,12 @@
           <option name="url" value="https://github.com/fiorix/freegeoip" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/dev/sugarvine.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Orvelo" />
+    <option name="cloneParentDir" value="D:\Projects\Motionlab" />
   </component>
 </application>
