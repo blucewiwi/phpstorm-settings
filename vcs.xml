@@ -90,6 +90,10 @@
           <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/stuart.cross/livelotto-co-uk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/live-lotto-admin-build.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Projects\Motionlab\Beda Leisure" />
