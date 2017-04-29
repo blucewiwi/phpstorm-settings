@@ -33,6 +33,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="6440aea6-a215-4e6c-aea0-5177ec11b586" name="PGRoofing" url="http://www.pgroofing.co.uk">
+        <fileTransfer host="home397418533.1and1-data.host" port="22" rootFolder="/ZepsuDevelopment/pgroofing" accessType="SFTP">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
