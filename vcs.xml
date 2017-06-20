@@ -94,8 +94,12 @@
           <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/live-lotto-admin-build.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/interactive/interactivegames.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Motionlab\Beda Leisure" />
+    <option name="cloneParentDir" value="D:\Projects\MotionlabInteractive" />
   </component>
 </application>
