@@ -13,7 +13,7 @@
     <interpreters>
       <interpreter home="\usr\bin\php" id="bba2be4d-3447-4617-82a2-eac01f51a146" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
       <interpreter home="D:\Development\wamp64\bin\php\php7.0.4\php.exe" id="1f6f3bfe-0039-44c7-88fd-ed8a46a30f5f" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="F:\wamp64\bin\php\php7.1.6\php.exe" id="4d742a13-4847-44a0-be11-3c524dbe4e04" name="PHP 7.1" debugger_id="php.debugger.XDebug" debugger_extension="F:\wamp64\bin\php\php7.1.6\zend_ext\php_xdebug-2.5.4-7.1-vc14-x86_64.dll" />
+      <interpreter home="C:\wamp64\bin\php\php7.1.5\php.exe" id="4d742a13-4847-44a0-be11-3c524dbe4e04" name="PHP 7.1" debugger_id="php.debugger.XDebug" debugger_extension="C:\wamp64\bin\php\php7.1.5\zend_ext\php_xdebug-2.5.4-7.1-vc14-x86_64.dll" />
     </interpreters>
   </component>
   <component name="PhpInterpretersPhpInfoCache">
@@ -429,9 +429,9 @@
         </phpinfo>
       </interpreter>
       <interpreter name="PHP 7.1">
-        <phpinfo binary_type="PHP" php_cgi="F:\wamp64\bin\php\php7.1.6\php-cgi.exe" php_cli="F:\wamp64\bin\php\php7.1.6\php.exe" path_separator=";" version="7.1.6" warning="Cannot load Xdebug - it was already loaded&#10;">
+        <phpinfo binary_type="PHP" php_cgi="C:\wamp64\bin\php\php7.1.5\php-cgi.exe" php_cli="C:\wamp64\bin\php\php7.1.5\php.exe" path_separator=";" version="7.1.5">
           <additional_php_ini />
-          <configuration_file>F:\wamp64\bin\php\php7.1.6\php.ini</configuration_file>
+          <configuration_file>C:\wamp64\bin\php\php7.1.5\php.ini</configuration_file>
           <configuration_options>
             <configuration_option name="SMTP" value="localhost" />
             <configuration_option name="allow_url_fopen" value="1" />
@@ -452,12 +452,6 @@
             <configuration_option name="browscap" value="" />
             <configuration_option name="cli.pager" value="" />
             <configuration_option name="cli.prompt" value="\b \&gt; " />
-            <configuration_option name="com.allow_dcom" value="0" />
-            <configuration_option name="com.autoregister_casesensitive" value="1" />
-            <configuration_option name="com.autoregister_typelib" value="0" />
-            <configuration_option name="com.autoregister_verbose" value="0" />
-            <configuration_option name="com.code_page" value="" />
-            <configuration_option name="com.typelib_file" value="" />
             <configuration_option name="curl.cainfo" value="" />
             <configuration_option name="date.default_latitude" value="31.7667" />
             <configuration_option name="date.default_longitude" value="35.2333" />
@@ -477,7 +471,7 @@
             <configuration_option name="enable_dl" value="" />
             <configuration_option name="enable_post_data_reading" value="1" />
             <configuration_option name="error_append_string" value="" />
-            <configuration_option name="error_log" value="F:/wamp64/logs/php_error.log" />
+            <configuration_option name="error_log" value="c:/wamp64/logs/php_error.log" />
             <configuration_option name="error_prepend_string" value="" />
             <configuration_option name="error_reporting" value="32767" />
             <configuration_option name="exif.decode_jis_intel" value="JIS" />
@@ -487,7 +481,7 @@
             <configuration_option name="exif.encode_jis" value="" />
             <configuration_option name="exif.encode_unicode" value="ISO-8859-15" />
             <configuration_option name="expose_php" value="1" />
-            <configuration_option name="extension_dir" value="F:/wamp64/bin/php/php7.1.6/ext/" />
+            <configuration_option name="extension_dir" value="c:/wamp64/bin/php/php7.1.5/ext/" />
             <configuration_option name="file_uploads" value="1" />
             <configuration_option name="filter.default" value="unsafe_raw" />
             <configuration_option name="filter.default_flags" value="" />
@@ -536,7 +530,7 @@
             <configuration_option name="mbstring.substitute_character" value="" />
             <configuration_option name="mcrypt.algorithms_dir" value="" />
             <configuration_option name="mcrypt.modes_dir" value="" />
-            <configuration_option name="memory_limit" value="128M" />
+            <configuration_option name="memory_limit" value="-1" />
             <configuration_option name="mysqli.allow_local_infile" value="1" />
             <configuration_option name="mysqli.allow_persistent" value="1" />
             <configuration_option name="mysqli.default_host" value="" />
@@ -559,39 +553,6 @@
             <configuration_option name="mysqlnd.net_read_timeout" value="31536000" />
             <configuration_option name="mysqlnd.sha256_server_public_key" value="" />
             <configuration_option name="mysqlnd.trace_alloc" value="" />
-            <configuration_option name="opcache.blacklist_filename" value="" />
-            <configuration_option name="opcache.consistency_checks" value="0" />
-            <configuration_option name="opcache.dups_fix" value="0" />
-            <configuration_option name="opcache.enable" value="0" />
-            <configuration_option name="opcache.enable_cli" value="0" />
-            <configuration_option name="opcache.enable_file_override" value="0" />
-            <configuration_option name="opcache.error_log" value="" />
-            <configuration_option name="opcache.fast_shutdown" value="0" />
-            <configuration_option name="opcache.file_cache" value="" />
-            <configuration_option name="opcache.file_cache_consistency_checks" value="1" />
-            <configuration_option name="opcache.file_cache_fallback" value="1" />
-            <configuration_option name="opcache.file_cache_only" value="0" />
-            <configuration_option name="opcache.file_update_protection" value="2" />
-            <configuration_option name="opcache.force_restart_timeout" value="180" />
-            <configuration_option name="opcache.inherited_hack" value="1" />
-            <configuration_option name="opcache.interned_strings_buffer" value="8" />
-            <configuration_option name="opcache.log_verbosity_level" value="1" />
-            <configuration_option name="opcache.max_accelerated_files" value="10000" />
-            <configuration_option name="opcache.max_file_size" value="0" />
-            <configuration_option name="opcache.max_wasted_percentage" value="5" />
-            <configuration_option name="opcache.memory_consumption" value="128" />
-            <configuration_option name="opcache.mmap_base" value="" />
-            <configuration_option name="opcache.opt_debug_level" value="0" />
-            <configuration_option name="opcache.optimization_level" value="0x7FFFBFFF" />
-            <configuration_option name="opcache.preferred_memory_model" value="" />
-            <configuration_option name="opcache.protect_memory" value="0" />
-            <configuration_option name="opcache.restrict_api" value="" />
-            <configuration_option name="opcache.revalidate_freq" value="2" />
-            <configuration_option name="opcache.revalidate_path" value="0" />
-            <configuration_option name="opcache.save_comments" value="1" />
-            <configuration_option name="opcache.use_cwd" value="1" />
-            <configuration_option name="opcache.validate_permission" value="0" />
-            <configuration_option name="opcache.validate_timestamps" value="1" />
             <configuration_option name="open_basedir" value="" />
             <configuration_option name="openssl.cafile" value="" />
             <configuration_option name="openssl.capath" value="" />
@@ -608,6 +569,15 @@
             <configuration_option name="precision" value="14" />
             <configuration_option name="realpath_cache_size" value="4096K" />
             <configuration_option name="realpath_cache_ttl" value="120" />
+            <configuration_option name="redis.arrays.autorehash" value="" />
+            <configuration_option name="redis.arrays.functions" value="" />
+            <configuration_option name="redis.arrays.hosts" value="" />
+            <configuration_option name="redis.arrays.index" value="" />
+            <configuration_option name="redis.arrays.names" value="" />
+            <configuration_option name="redis.arrays.previous" value="" />
+            <configuration_option name="redis.clusters.read_timeout" value="" />
+            <configuration_option name="redis.clusters.seeds" value="" />
+            <configuration_option name="redis.clusters.timeout" value="" />
             <configuration_option name="register_argc_argv" value="1" />
             <configuration_option name="report_memleaks" value="1" />
             <configuration_option name="report_zend_debug" value="0" />
@@ -630,7 +600,7 @@
             <configuration_option name="session.name" value="PHPSESSID" />
             <configuration_option name="session.referer_check" value="" />
             <configuration_option name="session.save_handler" value="files" />
-            <configuration_option name="session.save_path" value="F:/wamp64/tmp" />
+            <configuration_option name="session.save_path" value="c:/wamp64/tmp" />
             <configuration_option name="session.serialize_handler" value="php" />
             <configuration_option name="session.sid_bits_per_character" value="5" />
             <configuration_option name="session.sid_length" value="26" />
@@ -649,7 +619,7 @@
             <configuration_option name="short_open_tag" value="" />
             <configuration_option name="smtp_port" value="25" />
             <configuration_option name="soap.wsdl_cache" value="1" />
-            <configuration_option name="soap.wsdl_cache_dir" value="F:/wamp64/tmp" />
+            <configuration_option name="soap.wsdl_cache_dir" value="c:/wamp64/tmp" />
             <configuration_option name="soap.wsdl_cache_enabled" value="1" />
             <configuration_option name="soap.wsdl_cache_limit" value="5" />
             <configuration_option name="soap.wsdl_cache_ttl" value="86400" />
@@ -659,7 +629,7 @@
             <configuration_option name="track_errors" value="1" />
             <configuration_option name="unserialize_callback_func" value="" />
             <configuration_option name="upload_max_filesize" value="2M" />
-            <configuration_option name="upload_tmp_dir" value="F:/wamp64/tmp" />
+            <configuration_option name="upload_tmp_dir" value="c:/wamp64/tmp" />
             <configuration_option name="url_rewriter.hosts" value="" />
             <configuration_option name="url_rewriter.tags" value="form=" />
             <configuration_option name="user_agent" value="" />
@@ -699,11 +669,11 @@
             <configuration_option name="xdebug.overload_var_dump" value="2" />
             <configuration_option name="xdebug.profiler_aggregate" value="0" />
             <configuration_option name="xdebug.profiler_append" value="0" />
-            <configuration_option name="xdebug.profiler_enable" value="" />
-            <configuration_option name="xdebug.profiler_enable_trigger" value="" />
+            <configuration_option name="xdebug.profiler_enable" value="0" />
+            <configuration_option name="xdebug.profiler_enable_trigger" value="0" />
             <configuration_option name="xdebug.profiler_enable_trigger_value" value="" />
-            <configuration_option name="xdebug.profiler_output_dir" value="F:/wamp64/tmp" />
-            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%t.%p" />
+            <configuration_option name="xdebug.profiler_output_dir" value="C:\Windows\Temp" />
+            <configuration_option name="xdebug.profiler_output_name" value="cachegrind.out.%p" />
             <configuration_option name="xdebug.remote_addr_header" value="" />
             <configuration_option name="xdebug.remote_autostart" value="0" />
             <configuration_option name="xdebug.remote_connect_back" value="0" />
@@ -751,11 +721,9 @@
             <extension name="Reflection" />
             <extension name="SPL" />
             <extension name="SimpleXML" />
-            <extension name="Zend OPcache" />
             <extension name="bcmath" />
             <extension name="bz2" />
             <extension name="calendar" />
-            <extension name="com_dotnet" />
             <extension name="ctype" />
             <extension name="curl" />
             <extension name="date" />
@@ -782,6 +750,7 @@
             <extension name="pdo_mysql" />
             <extension name="pdo_sqlite" />
             <extension name="readline" />
+            <extension name="redis" />
             <extension name="session" />
             <extension name="soap" />
             <extension name="sockets" />
@@ -797,6 +766,7 @@
             <extension name="xsl" />
             <extension name="zip" />
             <extension name="zlib" />
+            <extension name="zmq" />
           </loaded_extensions>
         </phpinfo>
       </interpreter>
