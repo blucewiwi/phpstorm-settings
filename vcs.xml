@@ -106,8 +106,12 @@
           <option name="url" value="git@bispham.no-ip.org:social-clique/api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/livelotto-admin.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\social-clique" />
+    <option name="cloneParentDir" value="F:\Projects\Motionlab\BedaLeisure" />
   </component>
 </application>
