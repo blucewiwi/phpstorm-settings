@@ -99,11 +99,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/livelotto-ionic.git" />
+          <option name="url" value="git@bispham.no-ip.org:social-clique/mobile-app.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@bispham.no-ip.org:social-clique/api.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="F:\Projects\Motionlab\BedaLeisure" />
+    <option name="cloneParentDir" value="D:\Projects\social-clique" />
   </component>
 </application>
