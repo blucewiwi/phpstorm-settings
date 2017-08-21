@@ -122,8 +122,12 @@
           <option name="url" value="https://github.com/p4u1d34n/kickstart.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/epwin/epwin-dashboard.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Motionlab\NewDev\PaulD" />
+    <option name="cloneParentDir" value="D:\Projects\Motionlab\Epwin\" />
   </component>
 </application>
