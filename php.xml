@@ -9,13 +9,6 @@
       <PhpCSConfiguration tool_path="$USER_HOME$/bin/phpcs" />
     </phpcs_settings>
   </component>
-  <component name="PhpInterpreters">
-    <interpreters>
-      <interpreter home="\usr\bin\php" id="bba2be4d-3447-4617-82a2-eac01f51a146" name="PHP 5.6" debugger_id="php.debugger.XDebug" />
-      <interpreter home="D:\Development\wamp64\bin\php\php7.0.4\php.exe" id="1f6f3bfe-0039-44c7-88fd-ed8a46a30f5f" name="PHP 7" debugger_id="php.debugger.XDebug" />
-      <interpreter home="C:\wamp64\bin\php\php7.1.5\php.exe" id="4d742a13-4847-44a0-be11-3c524dbe4e04" name="PHP 7.1" debugger_id="php.debugger.XDebug" debugger_extension="C:\wamp64\bin\php\php7.1.5\zend_ext\php_xdebug-2.5.4-7.1-vc14-x86_64.dll" />
-    </interpreters>
-  </component>
   <component name="PhpInterpretersPhpInfoCache">
     <phpInfoCache>
       <interpreter name="PHP 5.6">
