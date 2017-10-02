@@ -14,7 +14,23 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>1</Count>
+          <Count>2</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Declaration">
+        <Item>
+          <IdeaActionID>GotoDeclaration</IdeaActionID>
+          <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
+          <Description>Declaration</Description>
+          <Count>3</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>5</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
@@ -30,7 +46,7 @@
           <IdeaActionID>ActivateProjectToolWindow</IdeaActionID>
           <ShortCut>'Alt+1'</ShortCut>
           <Description>Project</Description>
-          <Count>2</Count>
+          <Count>3</Count>
         </Item>
       </Statistic>
       <Statistic Action="Settings...">
@@ -54,6 +70,14 @@
           <IdeaActionID>ShowUmlDiagram</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Shift+U'</ShortCut>
           <Description>Show Diagram...</Description>
+          <Count>1</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Structure">
+        <Item>
+          <IdeaActionID>ActivateStructureToolWindow</IdeaActionID>
+          <ShortCut>'Alt+7'</ShortCut>
+          <Description>Structure</Description>
           <Count>1</Count>
         </Item>
       </Statistic>
