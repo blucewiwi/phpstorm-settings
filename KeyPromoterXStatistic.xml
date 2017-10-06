@@ -14,7 +14,7 @@
           <IdeaActionID>CheckinProject</IdeaActionID>
           <ShortCut>'Ctrl+K'</ShortCut>
           <Description>Commit...</Description>
-          <Count>23</Count>
+          <Count>25</Count>
         </Item>
       </Statistic>
       <Statistic Action="Copy">
