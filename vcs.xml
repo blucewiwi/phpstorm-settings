@@ -138,8 +138,12 @@
           <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/conservatory-outlet/clearview.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/mighton/mightonproducts.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Motionlab\Clearview\" />
+    <option name="cloneParentDir" value="D:\Projects\Motionlab\Mighton" />
   </component>
 </application>
