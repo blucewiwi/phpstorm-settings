@@ -142,8 +142,24 @@
           <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/mighton/mightonproducts.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/cuffe-and-taylor.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/greenwich.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/lytham-festival.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/scarborough.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Motionlab\Mighton" />
+    <option name="cloneParentDir" value="D:\Projects\Motionlab\CuffeAndTaylor" />
   </component>
 </application>
