@@ -158,8 +158,12 @@
           <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/scarborough.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/conservatory-outlet/orion-windows-2017.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Motionlab\CuffeAndTaylor" />
+    <option name="cloneParentDir" value="D:\Projects\Motionlab\Orion Windows" />
   </component>
 </application>
