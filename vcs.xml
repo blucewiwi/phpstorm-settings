@@ -166,8 +166,12 @@
           <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/oakmere/wp_base_theme.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/dev/ao-life.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Motionlab\Oakmere" />
+    <option name="cloneParentDir" value="D:\Projects\Motionlab\AO" />
   </component>
 </application>
