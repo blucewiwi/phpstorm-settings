@@ -174,8 +174,12 @@
           <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/ao-life-nl.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/cuffe-and-taylor-tickets.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Projects\Motionlab\AO" />
+    <option name="cloneParentDir" value="D:\Projects\Motionlab\CuffeAndTaylor\" />
   </component>
 </application>
