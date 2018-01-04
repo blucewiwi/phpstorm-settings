@@ -70,7 +70,7 @@
           <IdeaActionID>FindInPath</IdeaActionID>
           <ShortCut>'Ctrl+Shift+F'</ShortCut>
           <Description>Find in Path...</Description>
-          <Count>194</Count>
+          <Count>196</Count>
         </Item>
       </Statistic>
       <Statistic Action="Generate...">
