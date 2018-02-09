@@ -65,14 +65,6 @@
           <Count>16</Count>
         </Item>
       </Statistic>
-      <Statistic Action="Find in Path...">
-        <Item>
-          <IdeaActionID>FindInPath</IdeaActionID>
-          <ShortCut>'Ctrl+Shift+F'</ShortCut>
-          <Description>Find in Path...</Description>
-          <Count>227</Count>
-        </Item>
-      </Statistic>
       <Statistic Action="Generate...">
         <Item>
           <IdeaActionID>Generate</IdeaActionID>
@@ -297,6 +289,14 @@
           <ShortCut>'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'</ShortCut>
           <Description>Declaration</Description>
           <Count>20</Count>
+        </Item>
+      </Statistic>
+      <Statistic Action="Find in Path...">
+        <Item>
+          <IdeaActionID>FindInPath</IdeaActionID>
+          <ShortCut>'Ctrl+Shift+F'</ShortCut>
+          <Description>Find in Path...</Description>
+          <Count>228</Count>
         </Item>
       </Statistic>
       <Statistic Action="Paste">
