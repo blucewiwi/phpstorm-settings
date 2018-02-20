@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>299</Count>
+          <Count>303</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -126,7 +126,7 @@
           <IdeaActionID>FileChooser.Refresh</IdeaActionID>
           <ShortCut>'Ctrl+Alt+Y'</ShortCut>
           <Description>Refresh</Description>
-          <Count>6</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Rename...">
@@ -190,7 +190,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>11</Count>
+          <Count>12</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup...">
@@ -246,7 +246,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>127</Count>
+          <Count>128</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
