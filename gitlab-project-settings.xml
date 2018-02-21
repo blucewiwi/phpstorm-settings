@@ -2,5 +2,603 @@
   <component name="SettingsState">
     <option name="host" value="http://gits.motionlabclients.co.uk:8000" />
     <option name="token" value="HsHSiZb2WqeG1GqqiykD" />
+    <option name="projects">
+      <list>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/angel-ventlock/main-site.git" />
+          <option name="name" value="main-site" />
+          <option name="namespace" value="Angel-Ventlock" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/angel-ventlock/main-site.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/beda-leisure/beda-leisure.git" />
+          <option name="name" value="Beda Leisure" />
+          <option name="namespace" value="Beda Leisure" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/beda-leisure/beda-leisure.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/beda-leisure/livelotto-wp.git" />
+          <option name="name" value="livelotto-wp" />
+          <option name="namespace" value="Beda Leisure" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/beda-leisure/livelotto-wp.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/boilerplate/cegedim.git" />
+          <option name="name" value="Cegedim" />
+          <option name="namespace" value="Boilerplate" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/boilerplate/cegedim.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/boilerplate/fd-boilerplate.git" />
+          <option name="name" value="FD Boilerplate" />
+          <option name="namespace" value="Boilerplate" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/boilerplate/fd-boilerplate.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/boilerplate/wordpress.git" />
+          <option name="name" value="wordpress" />
+          <option name="namespace" value="Boilerplate" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/boilerplate/wordpress.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/benelux.git" />
+          <option name="name" value="Benelux" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/benelux.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/cayman-islands.git" />
+          <option name="name" value="Cayman Islands" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/cayman-islands.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/cyprus.git" />
+          <option name="name" value="Cyprus" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/cyprus.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/franchise.git" />
+          <option name="name" value="Franchise" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/franchise.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/india.git" />
+          <option name="name" value="India" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/india.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/ireland.git" />
+          <option name="name" value="Ireland" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/ireland.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/malta.git" />
+          <option name="name" value="Malta" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/malta.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/myanmar.git" />
+          <option name="name" value="Myanmar" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/myanmar.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/professional.git" />
+          <option name="name" value="Professional" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/professional.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/south-africa.git" />
+          <option name="name" value="South Africa" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/south-africa.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/business-doctors-uk-2016.git" />
+          <option name="name" value="UK" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/business-doctors-uk-2016.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/umae.git" />
+          <option name="name" value="UMAE" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/umae.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/business-doctors/usa.git" />
+          <option name="name" value="USA" />
+          <option name="namespace" value="Business Doctors" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/business-doctors/usa.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/campbells-caravans/website.git" />
+          <option name="name" value="Website" />
+          <option name="namespace" value="Campbells Caravans" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/campbells-caravans/website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/campbells-caravans/wordpress-2018.git" />
+          <option name="name" value="wordpress-2018" />
+          <option name="namespace" value="Campbells Caravans" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/campbells-caravans/wordpress-2018.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/catax/admin-are.git" />
+          <option name="name" value="Admin area" />
+          <option name="namespace" value="Catax" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/catax/admin-are.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/catax/mobile-app.git" />
+          <option name="name" value="Mobile app" />
+          <option name="namespace" value="Catax" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/catax/mobile-app.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/conservatory-outlet/5star2017.git" />
+          <option name="name" value="5star2017" />
+          <option name="namespace" value="Conservatory Outlet" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/conservatory-outlet/5star2017.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/conservatory-outlet/hazlemere.git" />
+          <option name="name" value="Hazlemere" />
+          <option name="namespace" value="Conservatory Outlet" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/conservatory-outlet/hazlemere.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/cuffe-and-taylor/cuffe-and-taylor.git" />
+          <option name="name" value="Cuffe And Taylor" />
+          <option name="namespace" value="Cuffe and Taylor" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/cuffe-and-taylor.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/cuffe-and-taylor/cuffe-and-taylor-tickets.git" />
+          <option name="name" value="Cuffe And Taylor Tickets" />
+          <option name="namespace" value="Cuffe and Taylor" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/cuffe-and-taylor-tickets.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/cuffe-and-taylor/greenwich.git" />
+          <option name="name" value="Greenwich" />
+          <option name="namespace" value="Cuffe and Taylor" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/greenwich.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/cuffe-and-taylor/jamesandolatour.git" />
+          <option name="name" value="jamesandolatour" />
+          <option name="namespace" value="Cuffe and Taylor" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/jamesandolatour.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/cuffe-and-taylor/lytham-festival.git" />
+          <option name="name" value="Lytham Festival" />
+          <option name="namespace" value="Cuffe and Taylor" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/lytham-festival.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/cuffe-and-taylor/remembering-fred.git" />
+          <option name="name" value="Remembering Fred" />
+          <option name="namespace" value="Cuffe and Taylor" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/remembering-fred.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/cuffe-and-taylor/scarborough.git" />
+          <option name="name" value="Scarborough" />
+          <option name="namespace" value="Cuffe and Taylor" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/cuffe-and-taylor/scarborough.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/cummins-mellor/cummins-mellor-2018.git" />
+          <option name="name" value="Cummins Mellor 2018" />
+          <option name="namespace" value="Cummins Mellor" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/cummins-mellor/cummins-mellor-2018.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/ao-summer-campaign.git" />
+          <option name="name" value="AO - Summer Campaign" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/ao-summer-campaign.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/ao-life.git" />
+          <option name="name" value="AO Life" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/ao-life.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/interactive-website.git" />
+          <option name="name" value="Interactive Website" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/interactive-website.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/jato-hunton-house.git" />
+          <option name="name" value="Jato - Hunton House" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/jato-hunton-house.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/ml-themosis.git" />
+          <option name="name" value="ML Themosis" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/ml-themosis.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/phpstorm-settings.git" />
+          <option name="name" value="PHPStorm Settings" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/phpstorm-settings.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/robru.git" />
+          <option name="name" value="Robru" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/robru.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/roqit.git" />
+          <option name="name" value="RoqIT" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/roqit.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/sharrocks.git" />
+          <option name="name" value="sharrocks" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/sharrocks.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/sugarvine.git" />
+          <option name="name" value="Sugarvine" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/sugarvine.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/dev/sugarvinemobileredirect.git" />
+          <option name="name" value="SugarvineMobileRedirect" />
+          <option name="namespace" value="Dev" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/dev/sugarvinemobileredirect.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/epwin/epwin-dashboard.git" />
+          <option name="name" value="Dashboard" />
+          <option name="namespace" value="Epwin" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/epwin/epwin-dashboard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/fitness-warehouse/gymgear.git" />
+          <option name="name" value="Gymgear" />
+          <option name="namespace" value="Fitness Warehouse" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/fitness-warehouse/gymgear.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/fitness-warehouse/magento-2018.git" />
+          <option name="name" value="magento-2018" />
+          <option name="namespace" value="Fitness Warehouse" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/fitness-warehouse/magento-2018.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/furness/furness-college.git" />
+          <option name="name" value="Furness College" />
+          <option name="namespace" value="Furness" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/furness/furness-college.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/furness/furness-we.git" />
+          <option name="name" value="Furness WE" />
+          <option name="namespace" value="Furness" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/furness/furness-we.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/icdavison/createmyhome.git" />
+          <option name="name" value="CreateMyHome" />
+          <option name="namespace" value="ICDavison" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/icdavison/createmyhome.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/icdavison/doordesigner.git" />
+          <option name="name" value="DoorDesigner" />
+          <option name="namespace" value="ICDavison" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/icdavison/doordesigner.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/icdavison/wordpress-2018.git" />
+          <option name="name" value="wordpress-2018" />
+          <option name="namespace" value="ICDavison" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/icdavison/wordpress-2018.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/JasonChristie/gulp-playground.git" />
+          <option name="name" value="Gulp-Playground" />
+          <option name="namespace" value="JasonChristie" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/JasonChristie/gulp-playground.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/JasonChristie/motionlab-php-theme.git" />
+          <option name="name" value="Motionlab PHP theme" />
+          <option name="namespace" value="JasonChristie" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/JasonChristie/motionlab-php-theme.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/Khan/sws.git" />
+          <option name="name" value="SWS" />
+          <option name="namespace" value="Khan" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/Khan/sws.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/McBride/excellence-as-standard.git" />
+          <option name="name" value="Excellence as Standard" />
+          <option name="namespace" value="McBride" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/McBride/excellence-as-standard.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/McBride/solidor2016.git" />
+          <option name="name" value="Solidor2016" />
+          <option name="namespace" value="McBride" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/McBride/solidor2016.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/mick.dalke/motionlab-site.git" />
+          <option name="name" value="Motionlab Site" />
+          <option name="namespace" value="mick.dalke" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/mick.dalke/motionlab-site.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/mike.smedley/live-lotto-admin-build.git" />
+          <option name="name" value="Live Lotto Admin Build" />
+          <option name="namespace" value="mike.smedley" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/live-lotto-admin-build.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/mike.smedley/live-lotto-site.git" />
+          <option name="name" value="Live Lotto Site" />
+          <option name="namespace" value="mike.smedley" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/live-lotto-site.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/mike.smedley/livelotto-ionic.git" />
+          <option name="name" value="LiveLotto Ionic" />
+          <option name="namespace" value="mike.smedley" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/livelotto-ionic.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/mike.smedley/national-control.git" />
+          <option name="name" value="National control" />
+          <option name="namespace" value="mike.smedley" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/national-control.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/mike.smedley/national-control-admin.git" />
+          <option name="name" value="National Control Admin" />
+          <option name="namespace" value="mike.smedley" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/mike.smedley/national-control-admin.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/motionlab/eas.git" />
+          <option name="name" value="EAS" />
+          <option name="namespace" value="Motionlab" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/motionlab/eas.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/motionlab/guideline.git" />
+          <option name="name" value="Guideline" />
+          <option name="namespace" value="Motionlab" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/motionlab/guideline.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/motionlab/internal.git" />
+          <option name="name" value="internal" />
+          <option name="namespace" value="Motionlab" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/motionlab/internal.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/motionlab/ml-themosis-theme.git" />
+          <option name="name" value="ml-themosis-theme" />
+          <option name="namespace" value="Motionlab" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/motionlab/ml-themosis-theme.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/motionlab/motionlab-site.git" />
+          <option name="name" value="motionlab-site" />
+          <option name="namespace" value="Motionlab" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/motionlab/motionlab-site.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/motionlab/twitter.git" />
+          <option name="name" value="Twitter" />
+          <option name="namespace" value="Motionlab" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/motionlab/twitter.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/motionlab/wp_base_theme.git" />
+          <option name="name" value="wp_base_theme" />
+          <option name="namespace" value="Motionlab" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/motionlab/wp_base_theme.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/nextstepblackpool/nextstepblackpool.git" />
+          <option name="name" value="NextStepBlackpool" />
+          <option name="namespace" value="NextStepBlackpool" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/nextstepblackpool/nextstepblackpool.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/orvelo/frontend.git" />
+          <option name="name" value="App" />
+          <option name="namespace" value="Orvelo" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/orvelo/frontend.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/orvelo/brains-v1.git" />
+          <option name="name" value="Brains" />
+          <option name="namespace" value="Orvelo" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/orvelo/brains-v1.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/orvelo/api.git" />
+          <option name="name" value="Brains-Legacy" />
+          <option name="namespace" value="Orvelo" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/orvelo/api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/orvelo/demosite.git" />
+          <option name="name" value="DemoSite" />
+          <option name="namespace" value="Orvelo" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/orvelo/demosite.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/orvelo/docker-containers.git" />
+          <option name="name" value="docker-containers" />
+          <option name="namespace" value="Orvelo" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/orvelo/docker-containers.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/orvelo/heartbeat-server.git" />
+          <option name="name" value="Heartbeat-Server" />
+          <option name="namespace" value="Orvelo" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/orvelo/heartbeat-server.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/orvelo/postman.git" />
+          <option name="name" value="Postman" />
+          <option name="namespace" value="Orvelo" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/orvelo/postman.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/project-management/harvest-api.git" />
+          <option name="name" value="Harvest API" />
+          <option name="namespace" value="Project Management" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/project-management/harvest-api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/project-management/harvest-tracker.git" />
+          <option name="name" value="Harvest Tracker" />
+          <option name="namespace" value="Project Management" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/project-management/harvest-tracker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/stuart.cross/livelotto-co-uk.git" />
+          <option name="name" value="livelotto.co.uk" />
+          <option name="namespace" value="stuart.cross" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/stuart.cross/livelotto-co-uk.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/studio-toolbox/4recruitment.git" />
+          <option name="name" value="4Recruitment" />
+          <option name="namespace" value="Studio Toolbox" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/studio-toolbox/4recruitment.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/thehub/wheat.git" />
+          <option name="name" value="wheat" />
+          <option name="namespace" value="thehub" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/thehub/wheat.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/tibard/tibard-ekam.git" />
+          <option name="name" value="Tibard EKAM" />
+          <option name="namespace" value="Tibard" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/tibard/tibard-ekam.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/tomjolly/orvelo-2.git" />
+          <option name="name" value="Orvelo 2" />
+          <option name="namespace" value="tomjolly" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/tomjolly/orvelo-2.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/tomjolly/orvelo-api.git" />
+          <option name="name" value="Orvelo-Api" />
+          <option name="namespace" value="tomjolly" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/tomjolly/orvelo-api.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/tomjolly/orvelo-com.git" />
+          <option name="name" value="orvelo.com" />
+          <option name="namespace" value="tomjolly" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/tomjolly/orvelo-com.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/tomjolly/sandbox.git" />
+          <option name="name" value="sandbox" />
+          <option name="namespace" value="tomjolly" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/tomjolly/sandbox.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/vetplus/microsite-2017.git" />
+          <option name="name" value="microsite-2017" />
+          <option name="namespace" value="Vetplus" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/vetplus/microsite-2017.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-plugins-internal/menu-walker.git" />
+          <option name="name" value="Menu Walker" />
+          <option name="namespace" value="WordPress Plugins Internal" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-plugins-internal/menu-walker.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-plugins-purchased/gravityforms.git" />
+          <option name="name" value="gravityforms" />
+          <option name="namespace" value="WordPress Plugins Purchased" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-plugins-purchased/gravityforms.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-plugins-purchased/gravityforms-zapier.git" />
+          <option name="name" value="gravityforms-zapier" />
+          <option name="namespace" value="WordPress Plugins Purchased" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-plugins-purchased/gravityforms-zapier.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-plugins-purchased/wpdevart-countdown-pro.git" />
+          <option name="name" value="wpdevart-countdown-pro" />
+          <option name="namespace" value="WordPress Plugins Purchased" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-plugins-purchased/wpdevart-countdown-pro.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-themes/create-my-home.git" />
+          <option name="name" value="Create My Home" />
+          <option name="namespace" value="Wordpress Themes" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-themes/create-my-home.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-themes/gymgear.git" />
+          <option name="name" value="GymGear" />
+          <option name="namespace" value="Wordpress Themes" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-themes/gymgear.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-themes/marketing-lancs-vanilla-php.git" />
+          <option name="name" value="Marketing Lancs Vanilla php" />
+          <option name="namespace" value="Wordpress Themes" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-themes/marketing-lancs-vanilla-php.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-themes/marketing-lancashire.git" />
+          <option name="name" value="marketing-lancashire" />
+          <option name="namespace" value="Wordpress Themes" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-themes/marketing-lancashire.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-themes/motionlab-theme.git" />
+          <option name="name" value="Motionlab Theme" />
+          <option name="namespace" value="Wordpress Themes" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-themes/motionlab-theme.git" />
+        </ProjectDto>
+        <ProjectDto>
+          <option name="httpUrl" value="http://gits.motionlabclients.co.uk:8000/wordpress-themes/vanilla-motionlab.git" />
+          <option name="name" value="Vanilla Motionlab" />
+          <option name="namespace" value="Wordpress Themes" />
+          <option name="sshUrl" value="ssh://git@gits.motionlabclients.co.uk:766/wordpress-themes/vanilla-motionlab.git" />
+        </ProjectDto>
+      </list>
+    </option>
   </component>
 </application>
