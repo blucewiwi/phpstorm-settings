@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>360</Count>
+          <Count>361</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -198,7 +198,7 @@
           <IdeaActionID>ShowSettings</IdeaActionID>
           <ShortCut>'Ctrl+Alt+S'</ShortCut>
           <Description>Settings...</Description>
-          <Count>13</Count>
+          <Count>14</Count>
         </Item>
       </Statistic>
       <Statistic Action="Show Diagram Popup...">
@@ -254,7 +254,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>142</Count>
+          <Count>143</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
@@ -278,7 +278,7 @@
           <IdeaActionID>Vcs.UpdateProject</IdeaActionID>
           <ShortCut>'Ctrl+T'</ShortCut>
           <Description>Update Project...</Description>
-          <Count>55</Count>
+          <Count>56</Count>
         </Item>
       </Statistic>
       <Statistic Action="Version Control">
@@ -286,7 +286,7 @@
           <IdeaActionID>ActivateVersionControlToolWindow</IdeaActionID>
           <ShortCut>'Alt+9' or 'Alt+Shift+9'</ShortCut>
           <Description>Version Control</Description>
-          <Count>30</Count>
+          <Count>31</Count>
         </Item>
       </Statistic>
     </option>
