@@ -30,7 +30,7 @@
           <IdeaActionID>$Copy</IdeaActionID>
           <ShortCut>'Ctrl+C' or 'Ctrl+Insert'</ShortCut>
           <Description>Copy</Description>
-          <Count>402</Count>
+          <Count>404</Count>
         </Item>
       </Statistic>
       <Statistic Action="Cut">
@@ -262,7 +262,7 @@
           <IdeaActionID>ActivateTerminalToolWindow</IdeaActionID>
           <ShortCut>'Alt+F12'</ShortCut>
           <Description>Terminal</Description>
-          <Count>145</Count>
+          <Count>146</Count>
         </Item>
       </Statistic>
       <Statistic Action="Toggle Line Breakpoint">
